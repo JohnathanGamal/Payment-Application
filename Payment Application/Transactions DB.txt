@@ -1,0 +1,26 @@
+
+ Transaction:
+   - Transaction Sequence Number: 1 
+   - Card Holder Name: Jonathan Gamal Tadros 
+   - Card Expiry Date: 04/26 
+   - PAN: 389856315489515019 
+   - Amount: 1000.000000 
+
+ Transaction:
+   - Transaction Sequence Number: 2 
+   - Card Holder Name: Mohamed Elsayed fathy 
+   - Card Expiry Date: 03/26 
+   - PAN: 05728387360601083 
+   - Amount: 4000.000000 
+   - Transaction Status: Declined. 
+   - Reason: Insufficient Fund in the client's account. 
+
+
+ Transaction:
+   - Transaction Sequence Number: 3 
+   - Card Holder Name: Ahmed Mostafa Nagy Saleh 
+   - Card Expiry Date: 04/26 
+   - PAN: 29261026236479257 
+   - Amount: 1000.000000 
+   - Transaction Status: Declined. 
+   - Reason: Stolen Card. 

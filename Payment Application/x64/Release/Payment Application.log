@@ -1,0 +1,17 @@
+﻿  app.c
+  card.c
+E:\Programming\Problems\Payment Application\Payment Application\Card\card.c(10,6): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Programming\Problems\Payment Application\Payment Application\Card\card.c(11,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\Problems\Payment Application\Payment Application\Card\card.c(57,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  server.c
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(46,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(30,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(39,11): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(119,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(126,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(131,20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programming\Problems\Payment Application\Payment Application\Server\server.c(170,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  terminal.c
+E:\Programming\Problems\Payment Application\Payment Application\Terminal\terminal.c(11,6): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Programming\Problems\Payment Application\Payment Application\Terminal\terminal.c(23,21): warning C4013: 'isdigit' undefined; assuming extern returning int
+E:\Programming\Problems\Payment Application\Payment Application\Terminal\terminal.c(76,10): warning C4477: 'scanf_s' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
